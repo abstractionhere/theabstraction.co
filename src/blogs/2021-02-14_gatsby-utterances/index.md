@@ -5,7 +5,7 @@ path: '/blogs/static-site-comment-system'
 thumbnail: './cover.jpg'
 author: 'allenabraham777'
 name: 'Allen K Abraham'
-published: true
+published: false
 date: '14-Feb-2020'
 ---
 
